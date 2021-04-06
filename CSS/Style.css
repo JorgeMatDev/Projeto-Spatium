@@ -68,11 +68,10 @@ body {
 }
 .menu-item-action{
     width: 100%;
-    color: #84DCC6;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 12px;
-    background-color: #4B3B47;
 }
 .menu-item{
     padding: 20px 15px;
