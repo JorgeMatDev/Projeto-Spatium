@@ -212,6 +212,8 @@ body {
 }
 
 .rodapé{
+    position: static;
+    bottom: 0;
     background-color: #000814;
     padding: 25px;
     color: rgb(255, 255, 255);
