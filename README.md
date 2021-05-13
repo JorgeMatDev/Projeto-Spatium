@@ -1,1 +1,1 @@
-  Projeto de Blog de Astronomia, afim de praticar funções Java e conhecimentos de HTML E CSS.
+  Projeto de Blog de Astronomia, afim de praticar funções JavaScript e conhecimentos de HTML E CSS.
